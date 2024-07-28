@@ -1,2 +1,2 @@
-# max_pain_cal
+# Max Pain
 Calculating max pain for Nifty
